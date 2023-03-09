@@ -48,7 +48,7 @@ Write a colab tensorflow only with builtin layers of the same
 
  Write a colab with Use functional api high level api  of tensorflow for the same
 
- ---- DeepLearning8.1
+ ---- DeepLearning8_1
  
 
 Write a colab with tensorflow only but using high level api
